@@ -1,0 +1,9 @@
+name: /home/bcwein/gits/presentations/.conda
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - statsmodels
+  - matplotlib
+prefix: /home/bcwein/gits/presentations/.conda
